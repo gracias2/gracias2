@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @gracias2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## About Me
 
-<!---
-gracias2/gracias2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Java developer currently learning software development.  
+I have experience building desktop applications using Java Swing and applying Object-Oriented Programming (OOP) and MVC architecture.
+
+I enjoy improving my coding skills and building practical, real-world applications.
+
+## Skills
+- Java
+- Object-Oriented Programming (OOP)
+- Java Swing
+- MVC Architecture
+- Git & GitHub (basic)
+
+## Learning
+- Java Enterprise Edition (JEE)
+- Full-stack web development
+
+## Goal
+To become a professional Java backend developer using Spring Boot and grow into a full-stack web application developer.
